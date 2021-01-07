@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohd. Faisal Moinuddin</h1>
+<h1 align="center">Hi 👋,  I'm Mohd. Faisal Moinuddin</h1>
 
 <h3 align="center">A passionate Software Engineer from India </h3>
 
@@ -9,6 +9,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/faisal25marcg1">
 <img  height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/faisal_moinuddin99/">
+<img  height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />
 </a>
 
 
