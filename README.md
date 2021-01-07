@@ -6,9 +6,7 @@
 <a href="https://www.linkedin.com/in/mohd-faisal-moinuddin-suleman-08b7341a1/">
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />
 </a>
-<style>
-a {margin-right: 20px;}
-</style>
+
 <a href="https://twitter.com/faisal25marcg1">
 <img  height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />
 </a>
