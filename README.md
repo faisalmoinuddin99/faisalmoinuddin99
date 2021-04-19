@@ -1,5 +1,5 @@
-<h1 align="center">Hi! <img height="50" width="50" src="https://emoji.discord.st/emojis/857a6273-33d3-4b80-9ad3-da1f0b0cfa43.gif" />,  I'm Mohd. Faisal Moinuddin</h1>
-<img height="50" width="50" src="https://emoji.discord.st/emojis/a8e0e4a2-2fd9-4654-a677-8e0b02999195.gif" />
+<h1 align="center">Hi! <img height="50" width="50" src="https://emoji.discord.st/emojis/857a6273-33d3-4b80-9ad3-da1f0b0cfa43.gif" />,  I'm Mohd. Faisal Moinuddin <img height="50" width="50" src="https://emoji.discord.st/emojis/a8e0e4a2-2fd9-4654-a677-8e0b02999195.gif" /></h1>
+
 <h3 align="center">A passionate Software Engineer from 🇮🇳 </h3>
 
 <h4> Connect with me : </h4>
