@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />,  I'm Mohd. Faisal Moinuddin</h1>
+<h1 align="center">Hi 👋 <img height="32" width="32" src="https://emoji.discord.st/emojis/857a6273-33d3-4b80-9ad3-da1f0b0cfa43.gif" />,  I'm Mohd. Faisal Moinuddin</h1>
 
 <h3 align="center">A passionate Software Engineer from 🇮🇳 </h3>
 
